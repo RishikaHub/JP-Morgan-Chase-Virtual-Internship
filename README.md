@@ -1,5 +1,3 @@
-# JP-Morgan-Chase-Virtual-Internship
-JP-Morgan-Chase-Virtual-Internship
 JP Morgan Virtual Internship
 This virtual internship was under JP Morgan Chase and Co. on Excel Skills by Forage.
 
@@ -27,10 +25,3 @@ Created a simple dashboard using the account sales dataset
 
 Created macros to assist with disaggregating data by multiple years
 Utlized pivot tables and charts to create dashboard.
-image
-
-Task 5: Data-Driven Storytelling
-Created a PowerPoint Presentation to communicated key insights. The recommendations provided are:
-
-Invest the freed- up sales and marketing resources into our online retailer accounts would drive most sales growth.
-Close the underperforming accounts and launch efforts to identify the highest potential online retailers accounts for increased sales and marketing investment.
