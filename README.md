@@ -25,3 +25,8 @@ Created a simple dashboard using the account sales dataset
 
 Created macros to assist with disaggregating data by multiple years
 Utlized pivot tables and charts to create dashboard.
+Task 5: Data-Driven Storytelling
+Created a PowerPoint Presentation to communicated key insights. The recommendations provided are:
+
+Invest the freed- up sales and marketing resources into our online retailer accounts would drive most sales growth.
+Close the underperforming accounts and launch efforts to identify the highest potential online retailers accounts for increased sales and marketing investment.
