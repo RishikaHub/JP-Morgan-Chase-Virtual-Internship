@@ -25,6 +25,8 @@ Created a simple dashboard using the account sales dataset
 
 Created macros to assist with disaggregating data by multiple years
 Utlized pivot tables and charts to create dashboard.
+![image](https://github.com/RishikaHub/JP-Morgan-Chase-Virtual-Internship/assets/167046024/09b03aad-5f3f-452b-a1ea-fc00af310c21)
+
 Task 5: Data-Driven Storytelling
 Created a PowerPoint Presentation to communicated key insights. The recommendations provided are:
 
